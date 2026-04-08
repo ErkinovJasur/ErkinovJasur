@@ -8,7 +8,7 @@ Frontend Developer
 
 
 ## 🛠 My Skills
-
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
@@ -17,7 +17,6 @@ Frontend Developer
 
 
 ### 🤝 Connect with me:
-<br>
 <p align="left">
 <p>📍 Location: Tashkent, Uzbekistan</p>
 <p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></p>
