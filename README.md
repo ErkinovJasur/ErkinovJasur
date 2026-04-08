@@ -26,8 +26,7 @@ Frontend Developer
 </p>
 
 
-## 🚀 About Me
-<br>
+## 🚀 About Me<br>
 🚀 **Future Frontend Engineer** currently mastering the art of web development.
 🎓 Proud student at **MARS IT SCHOOL**, building a strong foundation in IT.
 🎯 My ultimate career goal is to join **Google** and create impactful digital solutions.
