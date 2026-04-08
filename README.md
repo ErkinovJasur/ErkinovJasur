@@ -16,7 +16,7 @@ Frontend Developer
 </p>
 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 <p align="left">
 <p>📍 Location: Tashkent, Uzbekistan</p>
 <p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></p>
