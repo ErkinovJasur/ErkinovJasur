@@ -1,4 +1,4 @@
-## Hi, Im Erkinov Jasur 👋
+## Hi, Im Erkinov Jasur 
 
 Frontend Developer
 🎓 Student at MARS IT SCHOOL <br>
@@ -24,6 +24,14 @@ Frontend Developer
 <p>💬 Linkedin: <a href="https:https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 " target="blank"> https://www.linkedin.com/in/jasur-erkinov-11bb4b3a </a></p>
 <p> 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></p>
 </p>
+
+## 🚀 About Me
+🚀 **Future Frontend Engineer** currently mastering the art of web development.
+🎓 Proud student at **MARS IT SCHOOL**, building a strong foundation in IT.
+🎯 My ultimate career goal is to join **Google** and create impactful digital solutions.
+🏗️ Currently focused on converting complex **Figma designs** into pixel-perfect code.
+🌱 I am on a daily journey to improve my **English** and **JavaScript** logic.
+⚡ **Fun Fact:** I believe a clean code is a work of art!
 <!--
 **ErkinovJasur/ErkinovJasur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
