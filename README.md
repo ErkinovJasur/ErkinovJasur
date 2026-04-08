@@ -1,10 +1,10 @@
-** Hi, Im Erkinov Jasur 👋 **
+ Hi, Im Erkinov Jasur 👋 
 
 Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 💻 Crafting pixel-perfect web interfaces with code 🔭 <br>
 🌱 Always learning, always coding.
 <hr>
-**🛠 My Skills**
+🛠 My Skills
 <br>
 <br>
 <p align="left">
@@ -13,7 +13,7 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
   </a>
 </p>
 <hr>
-**🤝 Connect with me:**
+🤝 Connect with me:
 <br>
 <br>
 <p align="left">
@@ -24,7 +24,7 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 <span>📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></span>
 </p>
 <hr>
-**🚀 About Me**
+🚀 About Me
 <br>
 <br>
 🚀 **Future Frontend Engineer** currently mastering the art of web development.
