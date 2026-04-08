@@ -9,7 +9,7 @@ Frontend Developer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github,figma,nodejs,bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
   </a>
 </p>
 <!--
