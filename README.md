@@ -1,5 +1,10 @@
 ## Hi, Im Erkinov Jasur 👋
 
+Frontend Developer
+🎓 Student at MARS IT SCHOOL
+💻 Crafting pixel-perfect web interfaces with code🔭 
+🌱 Always learning, always coding.
+
 <!--
 **ErkinovJasur/ErkinovJasur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
