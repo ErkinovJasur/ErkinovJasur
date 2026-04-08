@@ -3,8 +3,9 @@
 Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 💻 Crafting pixel-perfect web interfaces with code 🔭 <br>
 🌱 Always learning, always coding.
-
+<hr>
 **🛠 My Skills**
+<br>
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
