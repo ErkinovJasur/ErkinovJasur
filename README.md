@@ -21,7 +21,7 @@ Frontend Developer
 <p>📍 Location: Tashkent, Uzbekistan</p>
 <p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></p>
 <p>💬 Instagram: <a href="https://instagram.com/7timurovch" target="blank">https://instagram.com/7timurovch</a></p>
-<p>💬 Linkedin: <a href="[https://linkedin.com/in/jasurerkinov](https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 )" target="blank">https://www.linkedin.com/in/jasur-erkinov-11bb4b3a </a></p>
+<p>💬 Linkedin: <a href="https:https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 " target="blank"> https://www.linkedin.com/in/jasur-erkinov-11bb4b3a </a></p>
 <p> 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></p>
 </p>
 <!--
