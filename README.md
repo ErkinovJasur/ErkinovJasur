@@ -20,7 +20,9 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 <span>🔗 Linkedin: <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4" target="blank">jasur-erkinov</a></span><br>
 <span>📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></span>
 </p>
-
+<br>
+<hr>
+<br>
 **🚀 About Me**
 <br>
 <br>
