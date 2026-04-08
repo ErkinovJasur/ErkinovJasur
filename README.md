@@ -14,6 +14,7 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 <hr>
 **🤝 Connect with me:**
 <br>
+<br>
 <p align="left">
 <span>📍 Location: Tashkent, Uzbekistan</span><br>
 <span>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></span><br>
