@@ -19,10 +19,10 @@ Frontend Developer
 ### 🤝 Connect with me:
 <p align="left">
 <p>📍 Location: Tashkent, Uzbekistan</p><br>
-<p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank"></a></p><br>
-<p>💬 Instagram: <a href="https://instagram.com/7timurovch" target="blank"></a></p><br>
-<p>💬 Linkedin: <a href="[https://linkedin.com/in/jasurerkinov](https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 )" target="blank"></a></a></p><br>
-<p> 📩 Email <a href="mailto:erkinovjasur80@gmail.com" target="blank"></a><br></p>
+<p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></p><br>
+<p>💬 Instagram: <a href="https://instagram.com/7timurovch" target="blank">https://instagram.com/7timurovch</a></p><br>
+<p>💬 Linkedin: <a href="[https://linkedin.com/in/jasurerkinov](https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 )" target="blank">@Erkinov Jasur likedin</a></a></p><br>
+<p> 📩 Email <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a><br></p>
 </p>
 <!--
 **ErkinovJasur/ErkinovJasur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
