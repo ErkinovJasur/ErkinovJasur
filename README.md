@@ -1,8 +1,8 @@
 ## Hi, Im Erkinov Jasur 👋
 
 Frontend Developer
-🎓 Student at MARS IT SCHOOL
-💻 Crafting pixel-perfect web interfaces with code🔭 
+🎓 Student at MARS IT SCHOOL <br>
+💻 Crafting pixel-perfect web interfaces with code🔭 <br>
 🌱 Always learning, always coding.
 
 
