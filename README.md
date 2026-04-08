@@ -1,4 +1,4 @@
- Hi, Im Erkinov Jasur 👋 
+<h1> Hi, Im Erkinov Jasur 👋 </h1>
 <hr>
 Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 💻 Crafting pixel-perfect web interfaces with code 🔭 <br>
