@@ -10,6 +10,13 @@ Frontend Developer
 
 Here are some ideas to get you started:
 
+### 🛠 My Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github,figma,nodejs,bootstrap,vite" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
