@@ -1,4 +1,4 @@
-<h1> Hi, Im Erkinov Jasur 👋 </h1>
+** Hi, Im Erkinov Jasur 👋 **
 <hr>
 Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 💻 Crafting pixel-perfect web interfaces with code 🔭 <br>
@@ -13,6 +13,7 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 </p>
 <hr>
 **🤝 Connect with me:**
+<br>
 <p align="left">
 <span>📍 Location: Tashkent, Uzbekistan</span><br>
 <span>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></span><br>
