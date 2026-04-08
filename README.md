@@ -25,7 +25,9 @@ Frontend Developer
 <p> 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></p>
 </p>
 
+
 ## 🚀 About Me
+<br>
 🚀 **Future Frontend Engineer** currently mastering the art of web development.
 🎓 Proud student at **MARS IT SCHOOL**, building a strong foundation in IT.
 🎯 My ultimate career goal is to join **Google** and create impactful digital solutions.
