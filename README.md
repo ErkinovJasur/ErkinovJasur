@@ -1,4 +1,4 @@
-## Hi, Im Erkinov Jasur 
+# Hi, Im Erkinov Jasur 👋
 
 Frontend Developer
 🎓 Student at MARS IT SCHOOL <br>
@@ -7,7 +7,7 @@ Frontend Developer
 
 
 
-## 🛠 My Skills
+# 🛠 My Skills
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,17 +16,17 @@ Frontend Developer
 </p>
 
 
-## 🤝 Connect with me:
+ 🤝 Connect with me:
 <p align="left">
 <p>📍 Location: Tashkent, Uzbekistan</p>
 <p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></p>
-<p>💬 Instagram: <a href="https://instagram.com/7timurovch" target="blank">https://instagram.com/7timurovch</a></p>
-<p>💬 Linkedin: <a href="https:https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 " target="blank"> https://www.linkedin.com/in/jasur-erkinov-11bb4b3a </a></p>
+<p>📸 Instagram: <a href="https://instagram.com/7timurovch" target="blank">https://instagram.com/7timurovch</a></p>
+<p>🔗 Linkedin: <a href="https:https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 " target="blank"> https://www.linkedin.com/in/jasur-erkinov-11bb4b3a </a></p>
 <p> 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></p>
 </p>
 
 
-## 🚀 About Me<br>
+# 🚀 About Me<br>
 🚀 **Future Frontend Engineer** currently mastering the art of web development.
 🎓 Proud student at **MARS IT SCHOOL**, building a strong foundation in IT.
 🎯 My ultimate career goal is to join **Google** and create impactful digital solutions.
