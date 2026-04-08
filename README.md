@@ -18,10 +18,11 @@ Frontend Developer
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://instagram.com/7timurovch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sening Instagraming" height="30" width="40" /></a> <br>
-<a href="https://t.me/timurovccc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Sening Telegraming" height="30" width="40" /></a><br>
-<a href="mailto:SENING_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Sening Gmailing" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/SENING_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sening LinkedIning" height="30" width="40" /></a>
+<p>📍 Location: Tashkent, Uzbekistan</p><br>
+<p>💬 Telegram: <a href="https://t.me/timurovccc" target="blank"></a></p><br>
+<p>💬 Instagram: <a href="https://instagram.com/7timurovch" target="blank"></a></p><br>
+<p>💬 Linkedin: <a href="[https://linkedin.com/in/jasurerkinov](https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4 )" target="blank"></a></a></p><br>
+<p> 📩 Email <a href="mailto:erkinovjasur80@gmail.com" target="blank"></a><br></p>
 </p>
 <!--
 **ErkinovJasur/ErkinovJasur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
