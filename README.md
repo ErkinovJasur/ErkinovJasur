@@ -1,10 +1,10 @@
- Hi, Im Erkinov Jasur 👋 
+ <b>Hi, Im Erkinov Jasur 👋</b>
 
 Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 💻 Crafting pixel-perfect web interfaces with code 🔭 <br>
 🌱 Always learning, always coding.
 <hr>
-🛠 My Skills
+<b> 🛠 My Skills </b>
 <br>
 <br>
 <p align="left">
@@ -13,18 +13,18 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
   </a>
 </p>
 <hr>
-<b> Connect with me:</b>
+<b>💻 Connect with me:</b>
 <br>
 <br>
 <p align="left">
-<span> • 📍 Location: Tashkent, Uzbekistan</span><br>
+<span> • 🌎 Location: Tashkent, Uzbekistan</span><br>
 <span> • 💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></span><br>
 <span> • 📸 Instagram: <a href="https://instagram.com/7timurovch" target="blank">7timurovch</a></span><br>
 <span> • 🔗 Linkedin: <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4" target="blank">jasur-erkinov</a></span><br>
 <span> • 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></span>
 </p>
 <hr>
-🚀 About Me
+ <b>🚀 About Me</b>
 <br>
 <br>
 🚀 **Future Frontend Engineer** currently mastering the art of web development.
