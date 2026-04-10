@@ -9,7 +9,7 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma,react" />
   </a>
 </p>
 <hr>
