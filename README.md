@@ -13,7 +13,7 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
   </a>
 </p>
 <hr>
-🤝 Connect with me:
+<b> Connect with me:</b>
 <br>
 <br>
 <p align="left">
