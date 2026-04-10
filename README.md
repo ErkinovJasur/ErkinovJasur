@@ -17,11 +17,11 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
 <br>
 <br>
 <p align="left">
-<span> · 📍 Location: Tashkent, Uzbekistan</span><br>
-<span> · 💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></span><br>
-<span> · 📸 Instagram: <a href="https://instagram.com/7timurovch" target="blank">7timurovch</a></span><br>
-<span> · 🔗 Linkedin: <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4" target="blank">jasur-erkinov</a></span><br>
-<span> · 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></span>
+<span> • 📍 Location: Tashkent, Uzbekistan</span><br>
+<span> • 💬 Telegram: <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></span><br>
+<span> • 📸 Instagram: <a href="https://instagram.com/7timurovch" target="blank">7timurovch</a></span><br>
+<span> • 🔗 Linkedin: <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4" target="blank">jasur-erkinov</a></span><br>
+<span> • 📩 Email: <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></span>
 </p>
 <hr>
 🚀 About Me
