@@ -34,7 +34,9 @@ I work on converting Figma designs into pixel-perfect code and pay great attenti
 My daily goal is to develop logical thinking in JavaScript and English.
 <br>
 My goal is to become a strong frontend engineer and work on large projects that solve real problems.
-
+<br>
+<hr>
+<br>
 <b>💡 Fun Facts</b>
 <br>
 • I enjoy building interactive and responsive web interfaces
