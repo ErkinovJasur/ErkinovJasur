@@ -27,9 +27,10 @@ Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
  <b>🚀 About Me</b>
 <br>
 <br>
-🚀 **Future Frontend Engineer** currently mastering the art of web development.
-🎓 Proud student at **MARS IT SCHOOL**, building a strong foundation in IT.
-🎯 My ultimate career goal is to join **Google** and create impactful digital solutions.
-🏗️ Currently focused on converting complex **Figma designs** into pixel-perfect code.
-🌱 I am on a daily journey to improve my **English** and **JavaScript** logic.
-⚡ **Fun Fact:** I believe a clean code is a work of art!
+I am a frontend developer, specializing in turning designs into clear and beautiful web interfaces. I am currently studying at MARS IT SCHOOL, where I am strengthening my knowledge of JavaScript and modern frontend technologies.
+<br>
+I work on converting Figma designs into pixel-perfect code and pay great attention to writing clean, understandable code.
+<br>
+My daily goal is to develop logical thinking in JavaScript and English.
+<br>
+My goal is to become a strong frontend engineer and work on large projects that solve real problems.
