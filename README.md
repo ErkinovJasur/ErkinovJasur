@@ -36,8 +36,8 @@ My daily goal is to develop logical thinking in JavaScript and English.
 My goal is to become a strong frontend engineer and work on large projects that solve real problems.
 <br>
 <hr>
-<br>
 <b>💡 Fun Facts</b>
+<br>
 <br>
 • I enjoy building interactive and responsive web interfaces
 • I like experimenting with animations, transitions, and modern UI effects
