@@ -40,5 +40,7 @@ My goal is to become a strong frontend engineer and work on large projects that 
 <br>
 <br>
 • I enjoy building interactive and responsive web interfaces
+<br>
 • I like experimenting with animations, transitions, and modern UI effects
+<br>
 • Always exploring new frontend tools and improving my skills
