@@ -1,4 +1,4 @@
-# Hi there! I'm [Jasur] 👋
+<b>Hi there! I'm [Jasur] 👋</b>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Frontend%20Developer&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
@@ -6,16 +6,16 @@
 
 ---
 
-## 🏗️ Tech Arsenal
+<b>🏗️ Tech Arsenal</b>
 
-### 🌐 Frontend Development
+<b>🌐 Frontend Development</b>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind" />
   </a>
 </p>
 
-## 🚀 Featured Projects
+<b>🚀 Featured Projects</b>
 
 <table width="100%">
   <tr>
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+<b>📊 GitHub Analytics</b>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Erkinov Jasur&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
@@ -81,7 +81,7 @@
 
 ---
 
-## 📫 Let's Connect
+<b>📫 Let's Connect</b>
 <p align="center">
   <a href="https://www.instagram.com/7timurovch?igsh=b3FycWFxZW5mbDA0"><img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
