@@ -1,46 +1,41 @@
- <b>Hi, Im Erkinov Jasur 👋</b>
+# Salom, men [Ismingiz]! 👋
 
-Frontend Developer 🎓 Student at MARS IT SCHOOL <br>
-💻 Crafting pixel-perfect web interfaces with code 🔭 <br>
-🌱 Always learning, always coding.
-<hr>
-<b> 🛠 My Skills </b>
-<br>
-<br>
+### 👨‍💻 Frontend Web Developer
+Gidda interaktiv va foydalanuvchiga yo'naltirilgan veb-ilovalarni yaratishga ishtiyoqmandman. 
+
+---
+
+### 🛠 Texnologiyalar va Instrumentlar
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,css,html,git,netlify,vscode" />
   </a>
 </p>
-<hr>
-<b>💻 Connect with me:</b>
-<br>
-<br>
-<p align="left">
-<span> • 🌎 <b>Location:</b> Tashkent, Uzbekistan</span><br>
-<span> • 💬 <b>Telegram:</b> <a href="https://t.me/timurovccc" target="blank">@timurovccc</a></span><br>
-<span> • 📸 <b>Instagram:</b> <a href="https://instagram.com/7timurovch" target="blank">7timurovch</a></span><br>
-<span> •🔗 <b>Linkedin:</b> <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4" target="blank">jasur-erkinov</a></span><br>
-<span> • 📩 <b>Email:</b> <a href="mailto:erkinovjasur80@gmail.com" target="blank">erkinovjasur80@gmail.com</a></span>
+
+---
+
+### 📊 Mening statistikalarim
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<hr>
- <b>🚀 About Me</b>
-<br>
-<br>
-I am a frontend developer, specializing in turning designs into clear and beautiful web interfaces. I am currently studying at MARS IT SCHOOL, where I am strengthening my knowledge of JavaScript and modern frontend technologies.
-<br>
-I work on converting Figma designs into pixel-perfect code and pay great attention to writing clean, understandable code.
-<br>
-My daily goal is to develop logical thinking in JavaScript and English.
-<br>
-My goal is to become a strong frontend engineer and work on large projects that solve real problems.
-<br>
-<hr>
-<b>💡 Fun Facts</b>
-<br>
-<br>
-• I enjoy building interactive and responsive web interfaces
-<br>
-• I like experimenting with animations, transitions, and modern UI effects
-<br>
-• Always exploring new frontend tools and improving my skills
+
+---
+
+### ⚡ GitHub Faolligi (Grafik)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+---
+
+### 🎨 Animatsiyali Ikonkalar va Bog'lanish
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" width="100%"/>
+</p>
