@@ -25,7 +25,7 @@
   <p><b>Impact:</b> 100% Secure Access Control | Interactive UI Components | Local Tech Ecosystem Growth</p>
   <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css,scss" />
   <br><br>
-  <a href="https://starlit-croquembouche-b0786d.netlify.app/"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a target="blank" href="https://starlit-croquembouche-b0786d.netlify.app/"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
   <a href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Live?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </td>
     <!-- <td width="50%" valign="top">
@@ -83,9 +83,9 @@
 
 <b>📫 Let's Connect</b>
 <p align="center">
-  <a href="https://www.instagram.com/7timurovch?igsh=b3FycWFxZW5mbDA0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/timurovccc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/7timurovch?igsh=b3FycWFxZW5mbDA0" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+  <a href="https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/timurovccc" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p align="center">
