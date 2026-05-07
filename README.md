@@ -1,4 +1,4 @@
-# Salom, men [Ismingiz]! 👋
+# Salom, men [Jasur]! 👋
 
 ### 👨‍💻 Frontend Web Developer
 Gidda interaktiv va foydalanuvchiga yo'naltirilgan veb-ilovalarni yaratishga ishtiyoqmandman. 
@@ -27,11 +27,11 @@ Gidda interaktiv va foydalanuvchiga yo'naltirilgan veb-ilovalarni yaratishga ish
 
 ---
 
-### 🎨 Animatsiyali Ikonkalar va Bog'lanish
+### 🔭 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="(https://www.linkedin.com/in/jasur-erkinov-11bb4b3a4/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/7timurovch?igsh=b3FycWFxZW5mbDA0"><img src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/timurovccc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
