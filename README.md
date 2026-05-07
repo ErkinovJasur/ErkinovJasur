@@ -25,8 +25,8 @@
   <p><b>Impact:</b> 100% Secure Access Control | Interactive UI Components | Local Tech Ecosystem Growth</p>
   <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css,scss" />
   <br><br>
-  <a target="blank" href="https://starlit-croquembouche-b0786d.netlify.app/"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Live?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a target="blank" href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://starlit-croquembouche-b0786d.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </td>
     <!-- <td width="50%" valign="top">
       <h3>💈 Stillone.uz</h3>
@@ -65,18 +65,17 @@
 <b>📊 GitHub Analytics</b>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Erkinov Jasur&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErkinovJasur&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=7&no-bg=true" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ErkinovJasur&theme=onedark&column=7&no-bg=true" alt="trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkinov Jasur&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ErkinovJasur&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
