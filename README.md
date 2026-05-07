@@ -30,7 +30,7 @@ I am a passionate **Frontend Developer** dedicated to building high-performance 
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkinov Jasur&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
