@@ -23,10 +23,10 @@
   <h3>✨ CodeTok</h3>
   <p>A high-performance content sharing platform for developers. Features secure user authentication, identity protection, and automated content management for exclusive access control.</p>
   <p><b>Impact:</b> 100% Secure Access Control | Interactive UI Components | Local Tech Ecosystem Growth</p>
-  <img src="https://skillicons.dev/icons?i=react,js,css,netlify,git,html,css,scss" />
+  <img src="https://skillicons.dev/icons?i=,js,netlify,git,html,css,scss" />
   <br><br>
   <a href="https://starlit-croquembouche-b0786d.netlify.app/"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="#"><img src="https://github.com/erkinovjasur" /></a>
+  <a href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Live?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </td>
     <!-- <td width="50%" valign="top">
       <h3>💈 Stillone.uz</h3>
