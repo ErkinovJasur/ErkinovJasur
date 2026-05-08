@@ -15,6 +15,17 @@
   </a>
 </p>
 
+---
+
+<b>DevOps & Tools</b>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
+  </a>
+</p>
+
+---
+
 <b>🚀 Featured Projects</b>
 
 <table width="100%">
@@ -26,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css,scss,react" />
   <br><br>
   <a target="blank" href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://starlit-croquembouche-b0786d.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://timely-donut-45d1fb.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </td>
     <!-- <td width="50%" valign="top">
       <h3>💈 Stillone.uz</h3>
