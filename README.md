@@ -34,7 +34,7 @@
   <h3>✨ CodeTok</h3>
   <p>A high-performance content sharing platform for developers. Features secure user authentication, identity protection, and automated content management for exclusive access control.</p>
   <p><b>Impact:</b> 100% Secure Access Control | Interactive UI Components | Local Tech Ecosystem Growth</p>
-  <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css,scss,react" />
+  <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css,react" />
   <br><br>
   <a target="blank" href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
   <a href="https://timely-donut-45d1fb.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
