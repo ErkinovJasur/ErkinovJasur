@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css,react" />
   <br><br>
   <a target="blank" href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://timely-donut-45d1fb.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://ubiquitous-gumption-b8796b.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 </td>
     <!-- <td width="50%" valign="top">
       <h3>💈 Stillone.uz</h3>
