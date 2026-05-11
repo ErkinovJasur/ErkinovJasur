@@ -6,12 +6,10 @@
 
 ---
 
-<b>🏗️ Tech Arsenal</b>
-
 <b>🌐 Frontend Development</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind" />
   </a>
 </p>
 
