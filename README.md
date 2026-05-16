@@ -24,7 +24,7 @@
 
 ---
 
-<b>🚀 Featured Projects</b>
+<!-- <b>🚀 Featured Projects</b>
 
 <table width="100%">
   <tr>
@@ -36,7 +36,7 @@
   <br><br>
   <a target="blank" href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
   <a href="https://celebrated-alfajores-ff8d89.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-</td>
+</td> -->
     <!-- <td width="50%" valign="top">
       <h3>💈 Stillone.uz</h3>
       <p>Modern barber & salon booking platform. Real-time availability, online payments, and SMS reminders.</p>
@@ -46,28 +46,6 @@
       <a href="#"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📢 Adbloguz.uz</h3>
-      <p>Digital advertising platform for SMBs to create, manage and track campaigns across multiple channels.</p>
-      <p><b>Impact:</b> 150+ business clients | 1M+ monthly impressions</p>
-      <img src="https://skillicons.dev/icons?i=react,chartjs,nodejs,mongodb" />
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Elevato.me</h3>
-      <p>Full-stack subscription e-commerce platform with Stripe integration and multi-currency support.</p>
-      <p><b>Impact:</b> $450K+ revenue generated | 75% conversion increase</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,express,postgres,svg" />
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td> -->
-  </tr>
-</table>
 
 ---
 
