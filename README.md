@@ -24,30 +24,6 @@
 
 ---
 
-<!-- <b>🚀 Featured Projects</b>
-
-<table width="100%">
-  <tr>
-   <td width="50%" valign="top">
-  <h3>✨ CodeTok</h3>
-  <p>A high-performance content sharing platform for developers. Features secure user authentication, identity protection, and automated content management for exclusive access control.</p>
-  <p><b>Impact:</b> 100% Secure Access Control | Interactive UI Components | Local Tech Ecosystem Growth</p>
-  <img src="https://skillicons.dev/icons?i=js,netlify,git,html,css" />
-  <br><br>
-  <a target="blank" href="https://github.com/erkinovjasur"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://celebrated-alfajores-ff8d89.netlify.app/"><img src="https://img.shields.io/badge/Live-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-</td> -->
-    <!-- <td width="50%" valign="top">
-      <h3>💈 Stillone.uz</h3>
-      <p>Modern barber & salon booking platform. Real-time availability, online payments, and SMS reminders.</p>
-      <p><b>Impact:</b> 200+ registered professionals | 4.7/5.0 rating</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,graphql,postgres" />
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Demo-00A699?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-
----
 
 <b>📊 GitHub Analytics</b>
 
